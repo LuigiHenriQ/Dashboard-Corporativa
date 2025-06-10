@@ -10,8 +10,7 @@ Este projeto tem como objetivo realizar a modelagem e transformação de um banc
 
 - `01_create_schema.sql`: script para criação do banco de dados e todas as tabelas.
 - `02_insert_data_and_queries.sql`: script de inserção dos dados nas tabelas e algumas consultas.
-- `a8bf65e2-a503-46c9-9453-bd6bdf329e83.docx`: documento com ementa e diretrizes para transformação dos dados.
-- `Criando um Dashboard corporativo com integração com MySQL e Azure.pbix`: dashboard final desenvolvido no Power BI.
+- `Criando um Dashboard corporativo.pbix`: dashboard final desenvolvido no Power BI.
 
 ---
 
@@ -111,7 +110,7 @@ No Power BI:
 
 - SQL Server (T-SQL)
 - Power BI Desktop
-- SSMS / Azure Data Studio
+- SSMS 
 
 ---
 
